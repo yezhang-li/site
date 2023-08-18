@@ -19,6 +19,6 @@ Past research experience:
 * The formation and evolution of star cluster in the Solar neighborhood
 * Data reduction of Gaia DR2 / DR3 via machine learning neural network (Self-Organizing Maps)
 
-Current research aspiration:
+Current research interests:
 * Development of advanced numerical modelling based on the unstructured meshes
-* Accuracy -- cost analysis for test cases based on shallow water equations
+* Accuracy -- cost analysis for the test cases based on shallow water equations
