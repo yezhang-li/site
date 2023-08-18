@@ -14,7 +14,11 @@ He has been working on the formation and evolution of star clusters, and the 3D 
 
 Research Interests
 ======
-Past research experience
-* aa
+Past research experience:
+* Probing the Structure of the Milky Way Galaxy via open clusters
+* The formation and evolution of star cluster in the Solar neighborhood
+* Data reduction of Gaia DR2 / DR3 via machine learning neural network (Self-Organizing Maps)
 
-Future research aspiration
+Future research aspiration:
+* Advanced numerical modelling based on the unstructured meshes
+* The Accuracy -- Cost Analysis and Stability of Discretization Methods in the Ocean Modelling
